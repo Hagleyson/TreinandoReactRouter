@@ -1,12 +1,18 @@
 .center{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
     margin: 0 auto;
     background-color: #ccc;
+    border-radius: 10px;
+    padding: 20px;
     width: 500px;
     text-align: center;
     color:brown;
 }
 .form{
-    padding: 30px;
+    padding: 10px;
 }
 .form input{
     width: 100%;

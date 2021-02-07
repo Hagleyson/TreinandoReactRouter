@@ -1,6 +1,6 @@
 import React from "react"
 import { Route, Switch} from "react-router-dom"
-
+import "./content.css"
 import About from "../viewers/about"
 import Artigo from "../viewers/artigo"
 import Home from "../viewers/home"

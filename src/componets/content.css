@@ -1,0 +1,5 @@
+main{
+    position: relative;
+    background-color: #8fa8ba;
+    height: calc(100vh - 50px);
+}
